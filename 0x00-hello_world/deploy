@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 5-printf.c
+git update-index --chmod=+x 6-size.c
 
 git add .
 
-git commit -m "Hello, printf"
+git commit -m "Size is not grandeur, and territory does not make a nation"
 
 git push
