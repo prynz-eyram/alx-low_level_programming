@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 3-name
+git update-index --chmod=+x 4-puts.c
 
 git add .
 
-git commit -m "Name"
+git commit -m "Hello, puts"
 
 git push
