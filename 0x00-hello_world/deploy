@@ -2,12 +2,12 @@
 
 git add .
 
-git commit -m "Preprocessor"
+git commit -m "Compiler"
 
-git update-index --chmod=+x 0-preprocessor
+git update-index --chmod=+x 1-compiler
 
 git add .
 
-git commit -m "Preprocessor"
+git commit -m "Compiler"
 
 git push
