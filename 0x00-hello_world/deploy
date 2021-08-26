@@ -1,9 +1,11 @@
 #!/bin/bash
 
-chmod u+x 2-assembler
-
 git add .
 
 git commit -m "Assembler"
+
+git update-index --chmod=+x 2-assembler
+
+git add .
 
 git push
