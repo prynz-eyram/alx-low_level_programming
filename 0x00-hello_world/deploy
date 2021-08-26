@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 4-puts.c
+git update-index --chmod=+x 5-printf.c
 
 git add .
 
-git commit -m "Hello, puts"
+git commit -m "Hello, printf"
 
 git push
