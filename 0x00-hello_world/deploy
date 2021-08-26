@@ -1,13 +1,9 @@
 #!/bin/bash
 
-git add .
-
-git commit -m "Compiler"
-
-git update-index --chmod=+x 1-compiler
+chmod u+x 2-assembler
 
 git add .
 
-git commit -m "Compiler"
+git commit -m "Assembler"
 
 git push
