@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 100-intel
+git update-index --chmod=+x 101-quote.c
 
 git add .
 
-git commit -m "Intel"
+git commit -m "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity"
 
 git push
