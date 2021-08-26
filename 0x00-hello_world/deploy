@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 2-assembler
+git update-index --chmod=+x 3-name
 
 git add .
 
-git commit -m "Assembler"
+git commit -m "Name"
 
 git push
