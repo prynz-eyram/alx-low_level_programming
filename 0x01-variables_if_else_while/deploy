@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 6-print_numberz.c
+git update-index --chmod=+x 7-print_tebahpla.c
 
 git add .
 
-git commit -m "Numberz"
+git commit -m "Smile in the mirror"
 
 git push
