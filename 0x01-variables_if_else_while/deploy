@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 0-positive_or_negative.c
+git update-index --chmod=+x 1-last_digit.c
 
 git add .
 
-git commit -m "Positive anything is better than negative nothing"
+git commit -m "The last digit"
 
 git push
