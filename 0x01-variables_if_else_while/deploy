@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 5-print_numbers.c
+git update-index --chmod=+x 6-print_numberz.c
 
 git add .
 
-git commit -m "Numbers"
+git commit -m "Numberz"
 
 git push
