@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 3-print_alphabets.c
+git update-index --chmod=+x 4-print_alphabt.c
 
 git add .
 
-git commit -m "alphABET"
+git commit -m "When I was having that alphabet soup, I never thought that it would pay off"
 
 git push
