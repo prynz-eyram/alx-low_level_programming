@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git add .
+
+git update-index --chmod=+x 0-positive_or_negative.c
+
+git add .
+
+git commit -m "Positive anything is better than negative nothing"
+
+git push
