@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 6-abs.c
+git update-index --chmod=+x 7-print_last_digit.c
 
 git add .
 
-git commit -m "There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you"
+git commit -m "There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"
 
 git push
