@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git add .
+
+git update-index --chmod=+x 0-holberton.c
+
+git add .
+
+git commit -m "_putchar"
+
+git push
