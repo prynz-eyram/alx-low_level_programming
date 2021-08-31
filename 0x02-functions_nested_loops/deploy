@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 4-isalpha.c
+git update-index --chmod=+x 5-sign.c
 
 git add .
 
-git commit -m "isalpha"
+git commit -m "Sign"
 
 git push
