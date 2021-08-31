@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 2-print_alphabet_x10.c
+git update-index --chmod=+x 3-islower.c
 
 git add .
 
-git commit -m "10 x alphabet"
+git commit -m "islower"
 
 git push
