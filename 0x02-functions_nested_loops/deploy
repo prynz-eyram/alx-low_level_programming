@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 1-alphabet.c
+git update-index --chmod=+x 2-print_alphabet_x10.c
 
 git add .
 
-git commit -m "I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game"
+git commit -m "10 x alphabet"
 
 git push
