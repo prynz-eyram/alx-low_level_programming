@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 5-sign.c
+git update-index --chmod=+x 6-abs.c
 
 git add .
 
-git commit -m "Sign"
+git commit -m "There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you"
 
 git push
