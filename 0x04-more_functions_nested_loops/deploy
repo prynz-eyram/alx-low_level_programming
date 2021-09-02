@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 7-print_diagonal.c
+git update-index --chmod=+x 6-print_line.c
 
 git add .
 
-git commit -m "I feel like I am diagonally parked in a parallel universe"
+git commit -m "The shortest distance between two points is a straight line"
 
 git push
