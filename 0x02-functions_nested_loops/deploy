@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 0-holberton.c
+git update-index --chmod=+x 8-24_hours.c
 
 git add .
 
-git commit -m "_putchar"
+git commit -m "I'm federal agent Jack Bauer, and today is the longest day of my life"
 
 git push
