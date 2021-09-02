@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 3-print_numbers.c
+git update-index --chmod=+x 4-print_most_numbers.c
 
 git add .
 
-git commit -m "The numbers speak for themselves"
+git commit -m "I believe in numbers and signs"
 
 git push
