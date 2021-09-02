@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 6-print_line.c
+git update-index --chmod=+x 8-print_square.c
 
 git add .
 
-git commit -m "The shortest distance between two points is a straight line"
+git commit -m "You are so much sunshine in every square inch"
 
 git push
