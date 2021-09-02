@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 4-print_most_numbers.c
+git update-index --chmod=+x 5-more_numbers.c
 
 git add .
 
-git commit -m "I believe in numbers and signs"
+git commit -m "Numbers constitute the only universal language"
 
 git push
