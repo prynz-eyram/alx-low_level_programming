@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 10-add.c
+git update-index --chmod=+x 11-print_to_98.c
 
 git add .
 
-git commit -m "a + b"
+git commit -m "Holberton School, 98 Battery Street, the OG"
 
 git push
