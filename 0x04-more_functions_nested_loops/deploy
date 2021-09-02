@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 5-more_numbers.c
+git update-index --chmod=+x 6-print_line.c
 
 git add .
 
-git commit -m "Numbers constitute the only universal language"
+git commit -m "The shortest distance between two points is a straight line"
 
 git push
