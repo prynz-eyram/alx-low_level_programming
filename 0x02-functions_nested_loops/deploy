@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 9-times_table.c
+git update-index --chmod=+x 10-add.c
 
 git add .
 
-git commit -m "Learn your times table"
+git commit -m "a + b"
 
 git push
