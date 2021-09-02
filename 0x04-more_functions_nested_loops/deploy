@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 1-isdigit.c
+git update-index --chmod=+x 2-mul.c
 
 git add .
 
-git commit -m "isdigit"
+git commit -m "Collaboration is multiplication"
 
 git push
