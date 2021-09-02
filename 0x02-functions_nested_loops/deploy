@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 8-24_hours.c
+git update-index --chmod=+x 9-times_table.c
 
 git add .
 
-git commit -m "I'm federal agent Jack Bauer, and today is the longest day of my life"
+git commit -m "Learn your times table"
 
 git push
