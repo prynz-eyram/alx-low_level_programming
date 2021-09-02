@@ -1,22 +1,21 @@
-#include "main.h"
+#include "holberton.h"
 
 /**
- * print_line - draws a straight line.
- * @n: takes int,  number of times the character _ should be printed
- *
+ * print_line - check the code for Holberton School students.
+ * @n: Number of lines wanted
+ * Return: Always 0.
  */
 void print_line(int n)
 {
-	int a;
+	int i;
 
-	if (n > 0)
+	if (n <= 0)
+		_putchar('\n');
+	else
 	{
-		for (a = 1; a <= n; a++)
-		{
+		for (i = 0; i < n; i++)
 			_putchar('_');
-		}
+		
 		_putchar('\n');
 	}
-	else
-		_putchar('\n');
-
+}
