@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 2-largest_number.c
+git update-index --chmod=+x 3-print_remaining_days.c
 
 git add .
 
-git commit -m "0 > 972?"
+git commit -m "Leap year"
 
 git push
