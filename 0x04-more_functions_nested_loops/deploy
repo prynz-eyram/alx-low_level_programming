@@ -1,0 +1,11 @@
+#!/bin/bash
+
+git add .
+
+git update-index --chmod=+x 0-isupper.c
+
+git add .
+
+git commit -m "isupper"
+
+git push
