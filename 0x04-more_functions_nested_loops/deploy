@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 0-isupper.c
+git update-index --chmod=+x 1-isdigit.c
 
 git add .
 
-git commit -m "isupper"
+git commit -m "isdigit"
 
 git push
