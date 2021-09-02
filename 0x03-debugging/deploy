@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 1-main.c
+git update-index --chmod=+x 2-largest_number.c
 
 git add .
 
-git commit -m "Like, comment, subscribe"
+git commit -m "0 > 972?"
 
 git push
