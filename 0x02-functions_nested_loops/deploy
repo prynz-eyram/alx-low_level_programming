@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 102-fibonacci.c
+git update-index --chmod=+x 103-fibonacci.c
 
 git add .
 
-git commit -m "In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A"
+git commit -m "Even Liber Abbaci"
 
 git push
