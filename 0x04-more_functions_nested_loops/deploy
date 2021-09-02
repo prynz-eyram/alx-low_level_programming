@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 2-mul.c
+git update-index --chmod=+x 3-print_numbers.c
 
 git add .
 
-git commit -m "Collaboration is multiplication"
+git commit -m "The numbers speak for themselves"
 
 git push
