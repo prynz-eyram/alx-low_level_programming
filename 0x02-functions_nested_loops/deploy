@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 7-print_last_digit.c
+git update-index --chmod=+x 0-holberton.c
 
 git add .
 
-git commit -m "There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important"
+git commit -m "_putchar"
 
 git push
