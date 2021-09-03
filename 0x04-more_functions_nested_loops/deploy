@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 9-fizz_buzz.c
+git update-index --chmod=+x 10-print_triangle.c
 
 git add .
 
-git commit -m "Fizz-Buzz"
+git commit -m "Triangles"
 
 git push
