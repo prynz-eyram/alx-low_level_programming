@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 10-print_triangle.c
+git update-index --chmod=+x 100-prime_factor.c
 
 git add .
 
-git commit -m "Triangles"
+git commit -m "The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic"
 
 git push
