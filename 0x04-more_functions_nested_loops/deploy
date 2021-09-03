@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 8-print_square.c
+git update-index --chmod=+x 9-fizz_buzz.c
 
 git add .
 
-git commit -m "You are so much sunshine in every square inch"
+git commit -m "Fizz-Buzz"
 
 git push
