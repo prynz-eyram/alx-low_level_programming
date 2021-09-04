@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 9-print_comb.c
+git update-index --chmod=+x 100-print_comb3.c
 
 git add .
 
-git commit -m "Patience, persistence and perspiration make an unbeatable combination for success"
+git commit -m "Inventing is a combination of brains and materials. The more brains you use, the less material you need"
 
 git push
