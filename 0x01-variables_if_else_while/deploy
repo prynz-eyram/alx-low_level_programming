@@ -2,10 +2,10 @@
 
 git add .
 
-git update-index --chmod=+x 8-print_base16.c
+git update-index --chmod=+x 9-print_comb.c
 
 git add .
 
-git commit -m "Hexadecimal"
+git commit -m "Patience, persistence and perspiration make an unbeatable combination for success"
 
 git push
