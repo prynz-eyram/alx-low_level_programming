@@ -10,8 +10,7 @@
 
 int main(void)
 {
-	int n, m, o;
-	
+	int n, m, o;	
 	for (n = '0'; n <= '7'; n++)
 	{
 		for (m = '1'; m <= '8'; m++)
